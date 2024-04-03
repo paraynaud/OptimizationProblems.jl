@@ -24,6 +24,9 @@ ADNLPModels = "54578032-b7ea-4c30-94aa-7cbd1cce6c9a"
 NLPModels = "a4795742-8479-5a88-8948-cc11e1c8c1a6"
 NLPModelsJuMP = "792afdf1-32c1-5681-94e0-d7bf7a5df49e"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+CTDirect = "790bbbee-bee9-49ee-8912-a9de031322d5"
+OptimalControl = "5f98b655-cc9a-415a-b60e-744165666948"
+Percival = "01435c0c-c90d-11e9-3788-63660f8fbccc"
 
 [targets]
 test = ["ADNLPModels", "NLPModels", "NLPModelsJuMP", "Test"]
